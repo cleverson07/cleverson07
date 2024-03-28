@@ -18,4 +18,5 @@ Olá! Me chamo Cleverson.<br><br><br>Sou estudante e apaixonado pela a área de 
 ---
 [![](https://visitcount.itsvg.in/api?id=cleverson07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/cleverson07/cleverson07/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
