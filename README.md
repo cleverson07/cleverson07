@@ -46,3 +46,6 @@ de software.
 ✨ [Conta / Depósito / Saque -JAVA](https://github.com/cleverson07/Conta-dep-sito-saque)<br>
 ✨ [Menu Lava Rapido -JAVA](https://github.com/cleverson07/CadastroLavaRapido)<br>
 
+
+![snake gif](https://github.com/cleverson07/cleverson07/blob/output/github-contribution-grid-snake.gif)
+
