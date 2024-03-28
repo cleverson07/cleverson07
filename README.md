@@ -7,7 +7,7 @@ Sou estudante e apaixonado pela a área de programação. Atualmente estou cursa
 de software.
 
 ### 🌐 Meu Linkedin 👇
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cleverson-silva-correia) 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleverson-silva-correia) 
 
 
 ### 📊 Estatísticas
